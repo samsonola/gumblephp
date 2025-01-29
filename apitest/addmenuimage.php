@@ -1,7 +1,7 @@
 <?php
 
 // API endpoint
-$apiEndpoint = 'http://localhost/gumblephp/api/v1/addMenu.php';
+$apiEndpoint = 'http://localhost/gumblephp/api/v1/addMenu';
 
 // API key
 $apiKey = 'PK_IUVifQHwl1idkrpPepyM4yeVjO9';

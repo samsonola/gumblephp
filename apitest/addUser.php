@@ -27,11 +27,10 @@ $url = "http://localhost/gumblephp/api/v1/signup.php"; // Replace with the actua
 $getorg = generateRandomString("Gb_", 12);
 // Data to send to the endpoint
 $data = [
-    "firstname" => "John",
-    "lastname" => "Doe",
-    "phone" => "1234567890",
-    "email" => "oltundeafolayan163@example.com",
-    "organization_id" => "$getorg"
+    "firstname" => "Mavin",
+    "lastname" => "Ziva",
+    "phone" => "08164572111",
+    "email" => "realdevolatunde163@gmail.com",
 ];
 
 // Convert the data to JSON
